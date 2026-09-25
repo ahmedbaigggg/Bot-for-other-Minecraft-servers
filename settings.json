@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "TheBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "blockbashc.play.hosting",
+    "ip": "chaosphagesmp.play.hosting",
     "port": 0,
     "version": "1.20.1",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "123456789"
     },
     "anti-afk": {
       "enabled": true,
